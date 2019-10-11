@@ -8,25 +8,24 @@ register页面
 ## 2 Create a Project
 如图 project
 <img src="https://github.com/FanYaoFan/Course/blob/master/cloud/project.png"></img>
-你也可以添加成员并设置权限
+你也可以添加成员并设置权限   
+<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/projectSecond.png"></img>  
 ## 3 白名单  
 <img src="https://github.com/FanYaoFan/Course/blob/master/cloud/network.png"></img>  
-如图  
-<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/projectSecond.png"></img>   
 ## 4 建立群集 build a Cluster 
 如图 
 <img src="https://github.com/FanYaoFan/Course/blob/master/cloud/cluster.png"></img>  
 ### 4.1 选择CloudProvider
 选择free 
-<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/ clusterII.png"></img> 
+<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/clusterII.png"></img> 
 然后再选择云提供商和地区  
 ***
-<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/cloudprovider.png"></img> 
+<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/cloudProvider.png"></img> 
 我选择的是Azure HongKong地区 
 ### 4.2 create Cluster 
-<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/cluster III.png"></img> 
-创建好之后进入cluster页面 
- <img src="https://github.com/FanYaoFan/Course/blob/master/cloud/clusterIV.png"></img> 
+<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/clusterIII.png"></img> 
+创建好之后进入cluster页面   
+<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/clusterIV.png"></img> 
 ## 5 连接云
 有三个选择  
 我先选择Mongodb compass 
