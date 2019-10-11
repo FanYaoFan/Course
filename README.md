@@ -29,11 +29,10 @@ register页面
 ## 5 连接云
 有三个选择  
 我先选择Mongodb compass 
-<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/connectI.png"></img> 
+<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/connectII.png"></img>
 下载Mongodb compass
-<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/compassII.png"></img> 
 复制如图所示的内容 
-<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/connctIII.png"></img> 
+<img src="https://github.com/FanYaoFan/Course/blob/master/cloud/connectIII.png"></img>
 ### 5.1 连接compass
 先贴上官网网址: 
 官方文档网址https://docs.mongodb.com/compass/master/connect/
